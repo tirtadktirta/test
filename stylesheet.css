@@ -1,0 +1,74 @@
+/* Reset CSS (JANGAN DIHAPUS) */
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+form, input, div {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "lorem";
+}
+
+li {
+  list-style: none;
+
+}
+
+/* Ketik code Anda dibawah */
+.header {
+  background-color: #2C3A47;
+  color: #F8EFBA;
+  height: 90px;
+}
+.header-logo {
+  font-size:36px;
+  padding: :20px 40px
+  text-align: center;
+
+}
+.header-list {
+  float: left;
+}
+
+.header-list li {
+  float:left;
+  padding: 33px 20px;
+}
+
+.main {
+ background-color: #2C3A47;
+ padding:100px 80px;
+ color: #F8EFBA;
+}
+.copy-container h1, h2, h3 {
+  font-size: 20px;
+  text-align: center;
+}
+.copy-container h4 {
+  text-align: center;
+}
+
+
+.section-title {
+  border-bottom: 2px solid #dee7ec;
+  font-size: 28px;
+  padding-bottom: 15px;
+  margin-bottom: 50px;
+}
+
+.contents-icon {
+  float: left;
+  margin-right: 40px;
+}
+
+.contents-item p {
+  font-size: 24px;
+  margin-top: 30px;
+}
+
+.footer-logo {
+  float: left;
+  font-size: 32px;
+}
